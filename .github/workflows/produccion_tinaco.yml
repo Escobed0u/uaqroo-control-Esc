@@ -63,4 +63,4 @@ jobs:
           app-name: 'Tinaco'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4BDECA6A0E84A62AD1FE6AC80B3DDE9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3F9FB080C62845858CFFB30071B584B7 }}
